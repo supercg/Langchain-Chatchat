@@ -2,6 +2,8 @@
 
 🌍 [READ THIS IN ENGLISH](README_en.md)
 🌍 [日本語で読む](README_ja.md)
+本项目是基于LangChain-Chatchat的应用项目，尝试在硬件资源非常有限的条件下，利用小体量的大模型搭建教育行业知识库，实现基于知识库的AI助手智能问答。
+本次使用的模型为：internlm2-chat-1.8b。
 
 📃 **LangChain-Chatchat** (原 Langchain-ChatGLM)
 
